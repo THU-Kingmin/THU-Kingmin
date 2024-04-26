@@ -7,6 +7,5 @@
 - 🏢 Tencent（2023.03-2024.03）
 - 🏢 DJI（2023.04-Now）
   
-![Visitor Count](https://profile-counter.glitch.me/THU-Kingmin/count.svg)
 <img src="https://github-readme-stats.vercel.app/api?username=THU-Kingmin&show_icons=true&theme=vue&count_private=true" alt="THU-Kingmin's github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THU-Kingmin&layout=compact"/>
