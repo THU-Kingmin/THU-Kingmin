@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I'm Kingmin 👋
 
-<!--
-**THU-Kingmin/THU-Kingmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm now studying at Tsinghua University.
+- 🌱 I’m currently learning Computer Vision, Image Super-resolution, Image Rescaling, MLLM Attack, Multi-modal Retrieval and so on.
+- 📫 How to reach me: lijm22@mails.tsinghua.edu.cn
+- 🏢 Tencent（2023.03-2024.03）
+- 🏢 DJI（2023.04-Now）
+  
+![Visitor Count](https://profile-counter.glitch.me/THU-Kingmin/count.svg)
+<img src="https://github-readme-stats.vercel.app/api?username=THU-Kingmin&show_icons=true&theme=vue&count_private=true" alt="THU-Kingmin's github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THU-Kingmin&layout=compact"/>
